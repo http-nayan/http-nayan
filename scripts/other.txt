@@ -1,0 +1,8 @@
+  {
+    name: "Lovesick Girls",
+    artist: "BlackPink",
+    cover: "/potify/img/3.jpeg",
+    source: "/potify/mp3/3.mp3",
+    url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
+    favorited: false
+  },
